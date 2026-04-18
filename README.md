@@ -1,21 +1,124 @@
-- # Olá, eu sou Samuel! 👋🏾
+# 👨🏾‍💻 Olá, eu sou Samuel!
+
+**`Desenvolvedor de software`**
 
 ## Sobre mim
 
-Sou **estudante de Sistemas de Informação na UFBA** 🎓 e um **entusiasta apaixonado por tecnologia e inovação**. Desde que comecei minha jornada no universo da programação, meu objetivo tem sido claro: construir soluções que realmente fazem a diferença. Atualmente, estou em busca da minha **primeira oportunidade como desenvolvedor backend**, onde posso aplicar meus conhecimentos, crescer profissionalmente e contribuir para o sucesso da equipe.
+ Atualmente sou **estudante de Sistemas de Informação na UFBA🎓 (7º semestre)**  e um entusiasta por construir soluções que unem eficiência técnica e valor de negócio. Tenho experiência que transita entre o desenvolvimento de software e a gestão comercial, o que me permite olhar para o código com uma visão analítica e orientada a resultados.
 
-## O que estou estudando atualmente
+## 📚 O que estou estudando atualmente
 
-Tenho focado em **Java** e **Programação Orientada a Objetos**, mergulhando nas bases sólidas que sustentam aplicações robustas e escaláveis. Também possuo experiência com **TypeScript** e **Express.js**, ferramentas que utilizo para desenvolver **APIs REST simples e funcionais**.
+Dedico-me ao ecossistema Java e Spring Boot, aprofundando-me nos pilares que sustentam aplicações corporativas de alto desempenho. Meu foco atual está na aprendizagem da construção de APIs REST robustas, aplicando padrões de arquitetura e garantindo a escalabilidade e a manutenibilidade do código.
 
-## Outras habilidades técnicas
+---
 
-Embora meu foco principal seja backend, também possuo **conhecimentos em ferramentas de frontend**, incluindo:
+## 🤖 Linguagens e Ferramentas
 
-- **HTML** e **CSS** para criar interfaces intuitivas e responsivas.
-- **JavaScript**, **React.js** e **Next.js** para desenvolvimento de aplicações modernas e dinâmicas.
+<img 
+    align ="left"
+    alt ="Java"
+    title ="Java"
+    width = "30px"
+    style = "padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
 
-Essa combinação de conhecimentos me permite entender todo o ciclo de desenvolvimento e colaborar de forma eficiente em projetos que demandam integração entre frontend e backend.
+<img 
+    align ="left"
+    alt ="Spring"
+    title ="Spring"
+    width = "30px"
+    style = "padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+
+<img 
+    align ="left"
+    alt ="HTML"
+    title ="HTML"
+    width = "30px"
+    style = "padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+
+<img 
+    align ="left"
+    alt ="CSS"
+    title ="CSS"
+    width = "30px"
+    style = "padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+
+<img 
+    align ="left"
+    alt ="JavaScript"
+    title ="JavaScript"
+    width = "30px"
+    style = "padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align ="left"
+    alt ="TypeScript"
+    title ="TypeScript"
+    width = "30px"
+    style = "padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+/>
+
+<img 
+    align ="left"
+    alt ="React"
+    title ="React"
+    width = "30px"
+    style = "padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>          
+
+<img 
+    align ="left"
+    alt ="Next"
+    title ="Next"
+    width = "30px"
+    style = "padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+
+<img 
+    align ="left"
+    alt ="Git"
+    title ="Git"
+    width = "30px"
+    style = "padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
+
+## 🤖 Estatatísticas
+<p>
+    <img 
+        align = "left"
+        alt = "Github Stats"
+        height = "200"
+        style = "padding-right: 10px;"
+        src = "https://github-readme-stats.vercel.app/api?username=samucaasantos&hide=stars&show_icons=true&theme=tokyonight&locale=pt-br"
+    />
+    <img
+        align = "left"
+        alt = "Github Stats"
+        height = "200"
+        style = "padding-right: 10px;"
+        src = "https://github-readme-stats.vercel.app/api/top-langs/?username=samucaasantos&layout=compact&theme=tokyonight&locale=pt-br"
+    />
+</p>
+
+<br/>
+<br/>
+
 
 ## Por que me contratar?
 
