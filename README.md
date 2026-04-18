@@ -10,9 +10,16 @@
 
 Dedico-me ao ecossistema Java e Spring Boot, aprofundando-me nos pilares que sustentam aplicações corporativas de alto desempenho. Meu foco atual está na aprendizagem da construção de APIs REST robustas, aplicando padrões de arquitetura e garantindo a escalabilidade e a manutenibilidade do código.
 
+## Por que me contratar?
+
+Sou movido pelo desejo de aprender e me superar constantemente. Cada desafio é uma oportunidade de crescimento, e meu compromisso é sempre entregar o meu melhor. Além disso, acredito que minhas habilidades e entusiasmo podem contribuir para o sucesso de qualquer equipe.
+
 ---
 
-## 🤖 Linguagens e Ferramentas
+💬 **Vamos conversar?** Estou aberto a oportunidades e ansioso para colaborar em projetos desafiadores. 🚀
+
+
+### 🤖 Linguagens e Ferramentas
 
 <img 
     align ="left"
@@ -98,7 +105,7 @@ Dedico-me ao ecossistema Java e Spring Boot, aprofundando-me nos pilares que sus
 <br/>
 <br/>
 
-## 🤖 Estatatísticas
+### 🤖 Estatísticas
 <p>
     <img 
         align = "left"
@@ -115,15 +122,3 @@ Dedico-me ao ecossistema Java e Spring Boot, aprofundando-me nos pilares que sus
         src = "https://github-readme-stats.vercel.app/api/top-langs/?username=samucaasantos&layout=compact&theme=tokyonight&locale=pt-br"
     />
 </p>
-
-<br/>
-<br/>
-
-
-## Por que me contratar?
-
-Sou movido pelo desejo de aprender e me superar constantemente. Cada desafio é uma oportunidade de crescimento, e meu compromisso é sempre entregar o meu melhor. Além disso, acredito que minhas habilidades e entusiasmo podem contribuir para o sucesso de qualquer equipe.
-
----
-
-💬 **Vamos conversar?** Estou aberto a oportunidades e ansioso para colaborar em projetos desafiadores. 🚀
