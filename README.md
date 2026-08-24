@@ -112,7 +112,7 @@ Sou movido pelo desejo de aprender e me superar constantemente. Cada desafio é 
         alt = "Github Stats"
         height = "200"
         style = "padding-right: 10px;"
-        src = "https://github-stats-extended.vercel.app/api?username=samucaasantos&hide=stars&show_icons=true&theme=tokyonight&locale=pt-br"
+        src = "https://github-stats-extended.vercel.app/api?username=samucaasantos&rank_icon=github&hide=stars&show_icons=true&theme=tokyonight&locale=pt-br"
     />
     <img
         align = "left"
